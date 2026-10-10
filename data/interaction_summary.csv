@@ -1,3 +1,85 @@
-| Select | Molecule A | Molecule B | Identifier A | Identifier B | Type A | Type B | Species A | Species B | Host Organism | Positive Interaction | Detection Method | Publication IDs | Interaction Type | Interaction AC | Confidence Value | Expansion Method | Aliases A | Aliases B | Feature Count | Interaction Annotations |
-|:---:|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---:|---|
-|  | CXCL8 | CXCR2 | UniProt | [P10145](https://www.uniprot.org/uniprotkb/P10145/entry) | UniProt | [P25025](https://www.uniprot.org/uniprotkb/P25025/entry) | Protein ([MI:0326](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0326)) | Protein ([MI:0326](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0326)) | [Homo sapiens](https://www.uniprot.org/taxonomy/9606) | [Homo sapiens](https://www.uniprot.org/taxonomy/9606) | In vitro | spa ([MI:0099](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0099)) | [23597562](https://europepmc.org/article/MED/23597562) | Physical association ([MI:0915](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0915)) | [EBI-6624936](https://www.ebi.ac.uk/intact/details/interaction/EBI-6624936) | [MI Score: 0.61](https://www.ebi.ac.uk/intact/documentation/user-guide#interaction_scoring) |  | Monocyte-derived neutrophil-activating peptide ([MI:0302](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0302)); Show more (9) | Protein 3-10C ([MI:0302](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0302)); CXCR2 ([MI:0301](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0301)); IL-8 receptor type 2 ([MI:0302](https://www.ebi.ac.uk/ols4/ontologies/mi/classes?obo_id=MI:0302)); Show more (4) | 1 | Figure legend; Table S2-50 |
+Select
+
+Molecule A
+
+Molecule B
+
+Identifier A
+
+Identifier B
+
+Type A
+
+Type B
+
+Species A
+
+Species B
+
+Host Organism
+
+Positive Interaction
+
+Detection Method
+
+Publication IDs
+
+Interaction Type
+
+Interaction AC
+
+Confidence Value
+
+Expansion Method
+
+Aliases A
+
+Aliases B
+
+Feature Count
+
+Interaction Annotations
+
+
+
+CXCL8
+
+CXCR2
+
+UniProt
+
+P10145
+
+UniProt
+
+P25025
+
+Protein (MI:0326)
+
+Protein (MI:0326)
+
+Homo sapiens
+
+Homo sapiens
+
+In vitro
+
+spa (MI:0099)
+
+23597562
+
+Physical association (MI:0915)
+
+EBI-6624936
+
+MI Score: 0.61
+
+
+
+Monocyte-derived neutrophil-activating peptide (MI:0302); Show more (9)
+
+Protein 3-10C (MI:0302); CXCR2 (MI:0301); IL-8 receptor type 2 (MI:0302); Show more (4)
+
+1
+
+Figure legend; Table S2-50
